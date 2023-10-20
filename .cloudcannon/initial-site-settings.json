@@ -3,7 +3,7 @@
     "build_configuration": {
         "preserved_paths": "",
         "environment_variables": [],
-        "jekyll_environment": "production",
+        "jekyll_environment": "development",
 		"drafts": false,
 		"use_local_bundle": true,
 		"enable_bundle_cache": true

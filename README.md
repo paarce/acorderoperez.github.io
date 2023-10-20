@@ -70,3 +70,10 @@ Treat is already optimised for adding, updating and removing recipes, navigation
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
+
+## Error
+
+```bash
+`require': cannot load such file -- webrick (LoadError)
+```
+Solution: https://github.com/jekyll/jekyll/issues/8523
