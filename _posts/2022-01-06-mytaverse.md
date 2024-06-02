@@ -2,7 +2,7 @@
 date: 2022-01-06
 title: Mytaverse
 categories:
-  - Virtal Reality
+  - Immersive Technologies
 featured_image: ../images/mytaverse_logo.png
 recipe:
   servings: 12 slices
