@@ -2,5 +2,6 @@
   link: /
 - name: About
   link: /about/
-- name: Newsletter
-  link: /contact/
+# TODO: Enable when Newsletter infra is ready 
+# - name: Newsletter
+#   link: /contact/

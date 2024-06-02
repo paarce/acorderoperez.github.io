@@ -1,6 +1,9 @@
 ---
 title: Newsletter
+image_view: false
 ---
+
+{% if page.image_view %}
 <div class="ml-embedded" data-form="31hdUD"></div>
 
 <!-- MailerLite Universal -->
@@ -12,3 +15,4 @@ title: Newsletter
     ml('account', '668408');
 </script>
 <!-- End MailerLite Universal -->
+{% endif %}
