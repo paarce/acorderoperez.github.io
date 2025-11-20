@@ -4,17 +4,14 @@ title: Mytaverse
 categories:
   - Immersive Technologies
 featured_image: ../images/mytaverse_logo.png
-recipe:
-  servings: 12 slices
-  prep: 15 minutes
-  cook: 65 minutes
-  ingredients_markdown: |-
+project:
+  tech_stack_markdown: |-
     * **Platform:** VR/3D Virtual Environments for Business
     * **Tech Stack:** TypeScript, PHP, Terraform, Python
     * **Frameworks:** React, Laravel, Flask
     * **Infrastructure:** AWS, Game Servers
     * **Leadership:** Managed 3 developers in web team, then infrastructure team
-  directions_markdown: |-
+  key_features_markdown: |-
     1. **Web Team Leadership:** Led frontend and backend developers for VR platform features
     2. **Voice/Video Integration:** Implemented voice/text chat and video streaming for VR events
     3. **Multi-Merchant Platform:** Developed merchant creation system with automated server provisioning

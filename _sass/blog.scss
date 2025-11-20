@@ -12,7 +12,7 @@
 		font-size: medium;
 	}
 
-	.recipe-overview {
+	.project-overview {
 		padding: 0;
 		margin: 0;
 
@@ -36,7 +36,7 @@
 		}
 	}
 
-	.recipe-contents {
+	.project-contents {
 		@media #{$desktop} {
 			display: flex;
 		}
@@ -76,12 +76,12 @@
 				}
 			}
 		}
-		.ingredients {
+		.tech-stack {
 			width: 250px;
 			padding: 0 43px 0 0;
 		}
 
-		.directions {
+		.key-features {
 			@media #{$desktop} {
 				flex: 1;
 			}

@@ -4,21 +4,21 @@ layout: default
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 
-	<div class="recipe-body">
+	<div class="project-body">
 		{{ content }}
 	</div>
 
 	<h2>Context</h2>
 
-	<div class="recipe-contents">
-		<div class="ingredients">
+	<div class="project-contents">
+		<div class="tech-stack">
 			<h4>Technical</h4>
-			{{ page.recipe.ingredients_markdown | markdownify }}
+			{{ page.project.tech_stack_markdown | markdownify }}
 		</div>
 
-		<div class="directions">
+		<div class="key-features">
 			<h4>Project</h4>
-			{{ page.recipe.directions_markdown | markdownify }}
+			{{ page.project.key_features_markdown | markdownify }}
 		</div>
 	</div>
 
