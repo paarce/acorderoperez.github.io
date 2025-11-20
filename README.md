@@ -1,14 +1,38 @@
-# Treat
+# Augusto Cordero Pérez - Senior iOS Tech Lead Portfolio
 
-Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
+Professional portfolio website showcasing 12+ years of iOS development expertise, specializing in FinTech solutions and technical leadership. Built with Jekyll and optimized for both technical recruiters and hiring managers.
 
-![Treat template screenshot](images/_screenshot.png)
+🌐 **Live Site:** [acorderoperez.github.io](https://acorderoperez.github.io)
 
-Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+## About This Portfolio
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+This site serves as a comprehensive showcase of my professional journey as a Senior iOS Tech Lead, highlighting:
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/treat-jekyll-template)
+- **Technical Leadership:** Leading cross-functional teams in complex FinTech projects
+- **FinTech Expertise:** Architecting secure payment solutions for major banks
+- **International Impact:** Delivering products serving users across Spain, Germany, and Latin America
+- **Modern iOS Development:** Swift, SwiftUI, Clean Architecture, CI/CD pipelines
+
+## Portfolio Highlights
+
+### Featured Projects
+- **Openbank - Zinia FinTech Platform** (2023): Led iOS development for innovative installment payment solution
+- **Xing Professional Network** (2021): Enhanced networking features for millions of European users
+- **Additional Projects:** Retail, Immersive Technologies, and FinTech solutions
+
+### Key Achievements
+- 12+ years iOS development experience
+- Led teams of 5-8 developers across multiple high-impact projects
+- Early adopter of SwiftUI, Async/Await, and modern iOS technologies
+- Implemented clean architecture patterns and accessibility standards
+
+## Multilingual Support
+
+The portfolio is available in both English and Spanish:
+- **English:** Main pages optimized for international opportunities
+- **Spanish:** `about-es.html` and `_data/sidebar-es.yml` for Spanish-speaking markets
+
+*Based on the Treat Jekyll template by [CloudCannon](http://cloudcannon.com/)*
 
 ## Features
 
@@ -48,12 +72,12 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
+Treat is already optimised for adding, updating and removing projects, navigation, page content, and sidebar information in CloudCannon.
 
-### Posts/Recipes
+### Posts/Projects
 
 * Add, update or remove a post in the *Posts* collection.
-* The recipes page is organised by categories.
+* The projects page is organised by categories.
 * Change the defaults when new posts are created in `_posts/_defaults.md`.
 
 ### Contact Form

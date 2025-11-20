@@ -16,11 +16,11 @@ body {
 	font-size: .8em;
 }
 
-.sidebar, .sharing, footer, .recipe-body, nav, img, time, .take-me, .cta {
+.sidebar, .sharing, footer, .project-body, nav, img, time, .take-me, .cta {
 	display: none;
 }
 
-.recipe-overview {
+.project-overview {
 	padding: 0;
 	margin: 0 0 30px 0;
 
@@ -40,15 +40,15 @@ body {
 	}
 }
 
-.recipe-contents {
+.project-contents {
 	display: flex;
 
-	.ingredients {
+	.tech-stack {
 		width: 200px;
 		padding: 0 43px 0 0;
 	}
 
-	.directions {
+	.key-features {
 		flex: 1;
 	}
 }
